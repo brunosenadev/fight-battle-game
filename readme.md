@@ -5,7 +5,7 @@ Este é um projeto de estudo focado em programação orientada a objetos (POO), 
 
 ## Conceitos Principais
 
-- **Herói:** O jogador controla o herói, que tem uma habilidade especial limitada por recargas.
+- **Herói:** O jogador controla o herói, que tem uma habilidade especial limitada por cargas.
 - **Inimigo:** A máquina controla o inimigo, que possui um tipo específico e faz ataques no seu turno.
 - **Turnos:** O jogo é baseado em turnos alternados, onde cada jogador ataca baseado no seu nível até que a vida do oponente chegue a zero.
 - **Vencedor**: Ganha o jogador que conseguir reduzir a vida do oponente a zero primeiro.
