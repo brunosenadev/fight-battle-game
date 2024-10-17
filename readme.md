@@ -19,6 +19,7 @@ Este é um projeto de estudo focado em programação orientada a objetos (POO), 
 
 #### O inimigo possui:
 - Pontos de vida.
+- Nível.
 - Tipo.
 - Ataque normal.
 
